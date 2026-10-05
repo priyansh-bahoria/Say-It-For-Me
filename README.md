@@ -30,9 +30,7 @@ A user gives Say It For Me the message they received, explains what they want to
 For example:
 
 > **Message:** "Are you coming tonight?"
-
 > **Intent:** I can't come, but I don't want them to think I'm avoiding them.
-
 > **Tone:** Friendly
 
 Say It For Me could suggest a few natural responses rather than giving the user one "perfect" answer.
